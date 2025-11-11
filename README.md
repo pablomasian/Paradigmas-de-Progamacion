@@ -1,2 +1,1 @@
-# PP
-Practicas de Paradigmas de Programación
+# Practicas de Paradigmas de Programación en Ocaml
